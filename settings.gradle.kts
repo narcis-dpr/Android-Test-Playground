@@ -17,3 +17,4 @@ rootProject.name = "Android Test Playground"
 include(":app")
 include(":UnitTest")
 include(":testdoublesfundamentals")
+include(":mockito")
