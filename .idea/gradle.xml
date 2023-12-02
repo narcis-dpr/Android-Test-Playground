@@ -11,6 +11,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/TDD" />
             <option value="$PROJECT_DIR$/UnitTest" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/mockito" />
